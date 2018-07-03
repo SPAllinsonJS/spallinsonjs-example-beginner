@@ -132,4 +132,12 @@ Try it out by navigating to page three, then:
 
 ## SPAllinsonJS Documentation
 
+#### Example Apps
+
+- Beginner App
+- [Intermediate App](https://github.com/SPAllinsonJS/spallinsonjs-example-intermediate)
+- [Advanced App](https://github.com/SPAllinsonJS/spallinsonjs-example-advanced)
+
+#### Docs
+
 All documentation can be found on the official site: [www.spallinsonjs.com](http://www.spallinsonjs.com)
