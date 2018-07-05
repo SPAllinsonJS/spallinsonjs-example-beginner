@@ -1,7 +1,7 @@
 
 # SPAllinsonJS - Beginner App
 
-v1.3.3
+v1.3.4
 
 
 
@@ -114,7 +114,7 @@ This folder holds all of the components' files.
 
 #### spallinsonjs/*
 
-This is the v1.3.3 release of SPAllinsonJS. Nothing to see here.
+This is the v1.3.4 release of SPAllinsonJS. Nothing to see here.
 
 
 
@@ -141,3 +141,9 @@ Try it out by navigating to page three, then:
 #### Docs
 
 All documentation can be found on the official site: [www.spallinsonjs.com](http://www.spallinsonjs.com)
+
+
+
+## Copyright
+
+All content &copy; [Chris J. Allinson](http://www.allinson.ca) 1996 - Present. All rights reserved.
