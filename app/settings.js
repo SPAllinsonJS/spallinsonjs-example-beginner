@@ -49,7 +49,7 @@ _A_.Settings = {
     },
 
 
-    fallbackRoute: 'home/pageone',
+    fallbackRoute: 'main/pageone',
 
     routes: {
         'main': [
