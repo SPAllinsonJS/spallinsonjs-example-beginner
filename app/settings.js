@@ -39,11 +39,12 @@ _A_.Settings = {
         },
         'PageTwo': {
             view: 'components/page-two/page-two.html',
-            controller: 'components/page-two/page-two.js',
             pageTitle: 'SPAllinsonJS - Beginner App - Page Two'
         },
         'PageThree': {
-            view: 'components/page-three/page-three.html',
+            view: function () {
+                return 'components/page-three/page-three.html';
+            },
             pageTitle: 'SPAllinsonJS - Beginner App - Page Three'
         },
     },
