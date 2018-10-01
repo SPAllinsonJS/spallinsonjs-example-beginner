@@ -1,7 +1,7 @@
 
 # SPAllinsonJS - Beginner App
 
-v1.3.4
+v1.4.0
 
 
 
@@ -85,7 +85,7 @@ This is where you "register" all of the components the app will use.
 
 A SPAllinsonJS component follows the MVC design pattern. MVC stands for Model View Controller, which is a way to separate logic, allowing for maximum reuse, and code that is easier to understand, and test!
 
-A component requires a `view`, but does not require a `controller`, `pageTitle`, or `preload` value.
+A component requires a `view`, but does not require a `controller`, `pageTitle`, or `preload` value. `view` can take a string or a function that returns a string.
 
 This first app is quite simple and only has 4 components: `MainTemplate`, `PageOne`, `PageTwo`, and `PageThree`.
 
@@ -112,7 +112,7 @@ Notice the use of `_A_.Go('../pagethree')`. The double dot (`../`) can be used (
 
 ###### _A_.Settings.fallbackRoute
 
-If ever SPAllinsonJS errors out trying to perform a routing, then it will route the user to the `fallbackRoute`. This can happen if the user enters a bogus url, if there are software bugs (e.g. route does not exist, spelling mistakes) etc..
+If ever SPAllinsonJS errors out trying to perform a routing, then it will route the user to the `fallbackRoute`. This can happen if the user enters a bogus url, if there are software bugs (e.g. route does not exist, spelling mistakes), etc..
 
 #### components/*
 
@@ -120,7 +120,7 @@ This folder holds all of the components' files.
 
 #### spallinsonjs/*
 
-This is the v1.3.4 release of SPAllinsonJS. Nothing to see here.
+This is the v1.4.0 release of SPAllinsonJS. Nothing to see here.
 
 
 
