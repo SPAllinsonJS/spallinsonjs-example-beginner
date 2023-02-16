@@ -1,7 +1,7 @@
 
 # SPAllinsonJS - Beginner App
 
-v1.4.0
+v1.4.2
 
 
 
@@ -120,7 +120,7 @@ This folder holds all of the components' files.
 
 #### spallinsonjs/*
 
-This is the v1.4.0 release of SPAllinsonJS. Nothing to see here.
+This is the v1.4.2 release of SPAllinsonJS. Nothing to see here.
 
 
 
