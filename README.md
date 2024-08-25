@@ -1,7 +1,7 @@
 
 # SPAllinsonJS - Beginner App
 
-v1.4.2
+v1.4.3
 
 
 
@@ -15,7 +15,7 @@ Topics include: Routing, Components, History, Deeplinking, Bookmarking
 
 ## See it in Action
 
-[www.spallinsonjs.com/example-apps/beginner](http://spallinsonjs.com/example-apps/beginner)
+[www.spallinsonjs.com/example-apps/beginner](https://spallinsonjs.com/example-apps/beginner)
 
 
 
@@ -120,7 +120,7 @@ This folder holds all of the components' files.
 
 #### spallinsonjs/*
 
-This is the v1.4.2 release of SPAllinsonJS. Nothing to see here.
+This is the v1.4.3 release of SPAllinsonJS. Nothing to see here.
 
 
 
@@ -146,10 +146,10 @@ Try it out by navigating to page three, then:
 
 #### Docs
 
-All documentation can be found on the official site: [www.spallinsonjs.com](http://www.spallinsonjs.com)
+All documentation can be found on the official site: [www.spallinsonjs.com](https://www.spallinsonjs.com)
 
 
 
 ## Copyright
 
-All content &copy; [Chris J. Allinson](http://www.allinson.ca) 1996 - Present. All rights reserved.
+All content &copy; [Chris J. Allinson](https://www.allinson.ca) 1996 - Present. All rights reserved.
