@@ -27,7 +27,6 @@ Here are a couple of options:
 
 - [Node.js](https://nodejs.org/en/) (Mac/Windows/Linux)
 - [MAMP](https://www.mamp.info/en/downloads/) (Mac)
-- [WAMP](http://ampps.com/wamp) (Windows)
 
 
 
